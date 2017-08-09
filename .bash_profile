@@ -1,5 +1,5 @@
-#gds config
-source ~/.bash_gds
+#local config
+source ~/.bash_local_profile
 
 #git prompt
 if [ -f "$(brew --prefix)/opt/bash-git-prompt/share/gitprompt.sh" ]; then
